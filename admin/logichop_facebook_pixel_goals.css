@@ -1,0 +1,15 @@
+.logichop_facebook_pixel_event {
+	width: 50%;
+}
+.logichop_fbp_param,
+#logichop_fbp_event,
+#logichop_fbp_data {
+	min-width: 80%;
+}
+#logichop_fbp_data {
+	height: 200px;
+}
+.logichop_fbp_clear {
+	font-size: 12px;
+	text-decoration: none;
+}
